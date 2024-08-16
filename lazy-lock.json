@@ -1,0 +1,6 @@
+{
+  "NvChad": { "branch": "v2.5", "commit": "fea5d02d2d07b148243c058d1b8b775f9cccac5e" },
+  "conform.nvim": { "branch": "master", "commit": "4e97712607bfdcadc097823339599e5bf05f97f9" },
+  "lazy.nvim": { "branch": "main", "commit": "077102c5bfc578693f12377846d427f49bc50076" },
+  "nvim-lspconfig": { "branch": "master", "commit": "a89de2e049b5f89a0ee55029d5a31213bd4de6f8" }
+}
